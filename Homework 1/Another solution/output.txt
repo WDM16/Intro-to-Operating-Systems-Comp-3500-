@@ -1,0 +1,4 @@
+line 1 has 33 characters from process 13471
+line 2 has 40 characters from process 13471
+line 3 has 19 characters from process 13471
+total 92 characters

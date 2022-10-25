@@ -1,0 +1,17 @@
+Input Line: 1
+Number of characters on the line: 10
+
+Input Line: 2
+Number of characters on the line: 49
+
+Input Line: 3
+Number of characters on the line: 27
+
+Input Line: 4
+Number of characters on the line: 23
+
+Input Line: 5
+Number of characters on the line: 0
+
+------------------------------------------
+Total Number of Characters: 109
